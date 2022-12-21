@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bolendra2323&label=Profile%20views&color=0e75b6&style=flat" alt="bolendra2323" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bolendra2310" target="blank"><img src="https://img.shields.io/twitter/follow/bolendra2310?logo=twitter&style=for-the-badge" alt="bolendra2310" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/bolendra2310" target="blank"><img src="https://img.shields.io/twitter/follow/bolendra2310?logo=twitter&style=for-the-badge" alt="bolendra2310" /></a> </p> -->
 
 - 🔭 I’m currently working on **MERN**
 
